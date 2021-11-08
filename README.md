@@ -1,26 +1,26 @@
 # 2D-Spy-Game
 A simple 2D turn-based action spy game that runs on the console. Have fun ! :)
 
-Environment:
+Environment: \
 \#  : walls \
 . : land \
-~ : water \  
-| : locked door \   
-\- : unlocked door \  
-, : lunar land \
+~ : water \
+| : locked door \
+\- : unlocked door \
+, : lunar land
 
-Items:
+Items: \
 k : key \
-& : oxygen dispenser \  
+& : oxygen dispenser \
 8 : oxygen tank \
 $ : rocket plans \
 ^ : rocket engine \
 O : rocket pad \
 R : rocket \
 s : space suit \
-j : water pistol \
+j : water pistol
 
-Characters:
+Characters: \
 @ : you, the hero and the main character \
 d : doctor maybe \
 n : ninja, sneaky and in hding but can stun \
